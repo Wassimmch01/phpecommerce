@@ -1,0 +1,14 @@
+.bg-custom {
+    background: url(img/w13.jpg);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+@media(max-width:991px){
+    #offcanvasNavbar{
+        background-color: #000050;
+        backdrop-filter: blur(10px);
+    }
+}
